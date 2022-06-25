@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pildoras_Informaticas/1.0.0": {
+        "runtime": {
+          "Pildoras_Informaticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pildoras_Informaticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

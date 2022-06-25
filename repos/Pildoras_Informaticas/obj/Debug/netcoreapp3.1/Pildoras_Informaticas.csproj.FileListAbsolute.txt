@@ -1,0 +1,14 @@
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.csproj.AssemblyReference.cache
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.AssemblyInfoInputs.cache
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.AssemblyInfo.cs
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.csproj.CoreCompileInputs.cache
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\bin\Debug\netcoreapp3.1\Pildoras_Informaticas.exe
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\bin\Debug\netcoreapp3.1\Pildoras_Informaticas.deps.json
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\bin\Debug\netcoreapp3.1\Pildoras_Informaticas.runtimeconfig.json
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\bin\Debug\netcoreapp3.1\Pildoras_Informaticas.runtimeconfig.dev.json
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\bin\Debug\netcoreapp3.1\Pildoras_Informaticas.dll
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\bin\Debug\netcoreapp3.1\Pildoras_Informaticas.pdb
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.dll
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.pdb
+C:\Users\vmsan\source\repos\Pildoras_Informaticas\obj\Debug\netcoreapp3.1\Pildoras_Informaticas.genruntimeconfig.cache

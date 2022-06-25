@@ -1,0 +1,14 @@
+C:\Users\vmsan\source\repos\Area del Triangulo\bin\Debug\netcoreapp3.1\Area del Triangulo.exe
+C:\Users\vmsan\source\repos\Area del Triangulo\bin\Debug\netcoreapp3.1\Area del Triangulo.deps.json
+C:\Users\vmsan\source\repos\Area del Triangulo\bin\Debug\netcoreapp3.1\Area del Triangulo.runtimeconfig.json
+C:\Users\vmsan\source\repos\Area del Triangulo\bin\Debug\netcoreapp3.1\Area del Triangulo.runtimeconfig.dev.json
+C:\Users\vmsan\source\repos\Area del Triangulo\bin\Debug\netcoreapp3.1\Area del Triangulo.dll
+C:\Users\vmsan\source\repos\Area del Triangulo\bin\Debug\netcoreapp3.1\Area del Triangulo.pdb
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.csproj.AssemblyReference.cache
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.AssemblyInfoInputs.cache
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.AssemblyInfo.cs
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.dll
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.pdb
+C:\Users\vmsan\source\repos\Area del Triangulo\obj\Debug\netcoreapp3.1\Area del Triangulo.genruntimeconfig.cache

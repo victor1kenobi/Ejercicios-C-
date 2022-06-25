@@ -1,0 +1,14 @@
+C:\Users\vmsan\source\repos\Arrays_vectores\bin\Debug\netcoreapp3.1\Arrays_vectores.exe
+C:\Users\vmsan\source\repos\Arrays_vectores\bin\Debug\netcoreapp3.1\Arrays_vectores.deps.json
+C:\Users\vmsan\source\repos\Arrays_vectores\bin\Debug\netcoreapp3.1\Arrays_vectores.runtimeconfig.json
+C:\Users\vmsan\source\repos\Arrays_vectores\bin\Debug\netcoreapp3.1\Arrays_vectores.runtimeconfig.dev.json
+C:\Users\vmsan\source\repos\Arrays_vectores\bin\Debug\netcoreapp3.1\Arrays_vectores.dll
+C:\Users\vmsan\source\repos\Arrays_vectores\bin\Debug\netcoreapp3.1\Arrays_vectores.pdb
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.csproj.AssemblyReference.cache
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.AssemblyInfoInputs.cache
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.AssemblyInfo.cs
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.csproj.CoreCompileInputs.cache
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.dll
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.pdb
+C:\Users\vmsan\source\repos\Arrays_vectores\obj\Debug\netcoreapp3.1\Arrays_vectores.genruntimeconfig.cache

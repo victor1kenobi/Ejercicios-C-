@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Area del Triangulo/1.0.0": {
+        "runtime": {
+          "Area del Triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Area del Triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

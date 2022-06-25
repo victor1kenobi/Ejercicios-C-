@@ -1,0 +1,14 @@
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.csproj.AssemblyReference.cache
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.AssemblyInfoInputs.cache
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.AssemblyInfo.cs
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.csproj.CoreCompileInputs.cache
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\bin\Debug\netcoreapp3.1\Operaciones_con_numeros.exe
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\bin\Debug\netcoreapp3.1\Operaciones_con_numeros.deps.json
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\bin\Debug\netcoreapp3.1\Operaciones_con_numeros.runtimeconfig.json
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\bin\Debug\netcoreapp3.1\Operaciones_con_numeros.runtimeconfig.dev.json
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\bin\Debug\netcoreapp3.1\Operaciones_con_numeros.dll
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\bin\Debug\netcoreapp3.1\Operaciones_con_numeros.pdb
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.dll
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.pdb
+C:\Users\vmsan\source\repos\Operaciones_con_numeros\obj\Debug\netcoreapp3.1\Operaciones_con_numeros.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\vmsan\source\repos\MiAplicacion\bin\Debug\netcoreapp3.1\MiAplicacion.exe
+C:\Users\vmsan\source\repos\MiAplicacion\bin\Debug\netcoreapp3.1\MiAplicacion.deps.json
+C:\Users\vmsan\source\repos\MiAplicacion\bin\Debug\netcoreapp3.1\MiAplicacion.runtimeconfig.json
+C:\Users\vmsan\source\repos\MiAplicacion\bin\Debug\netcoreapp3.1\MiAplicacion.runtimeconfig.dev.json
+C:\Users\vmsan\source\repos\MiAplicacion\bin\Debug\netcoreapp3.1\MiAplicacion.dll
+C:\Users\vmsan\source\repos\MiAplicacion\bin\Debug\netcoreapp3.1\MiAplicacion.pdb
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.csproj.AssemblyReference.cache
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.AssemblyInfoInputs.cache
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.AssemblyInfo.cs
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.dll
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.pdb
+C:\Users\vmsan\source\repos\MiAplicacion\obj\Debug\netcoreapp3.1\MiAplicacion.genruntimeconfig.cache
